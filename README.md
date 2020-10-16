@@ -1,4 +1,5 @@
 # nutch-anth
+anthelion is a Nutch plugin for focused crawling of semantic data.
 Anthelion is a Nutch plugin for focused crawling of semantic data.
 The project is an open-source project released under the Apache License 2.0.
 
